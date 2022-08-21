@@ -1,22 +1,21 @@
 {
   "files": {
     "main.css": "/My_Portfolio/static/css/main.73c2332e.css",
-    "main.js": "/My_Portfolio/static/js/main.0873c64c.js",
+    "main.js": "/My_Portfolio/static/js/main.a257a870.js",
     "static/media/rayban.png": "/My_Portfolio/static/media/rayban.a2a49f5319904c0cd7a9.png",
     "static/media/finduser.png": "/My_Portfolio/static/media/finduser.6a1c49ee20e8bb812440.png",
     "static/media/Notes.png": "/My_Portfolio/static/media/Notes.3fd1ff00905ee841f455.png",
     "static/media/background.png": "/My_Portfolio/static/media/background.f228a038993f3274a9e9.png",
     "static/media/payment.jpg": "/My_Portfolio/static/media/payment.fc7628412f1c21786034.jpg",
-    "static/media/cv-ar.pdf": "/My_Portfolio/static/media/cv-ar.b05c0c49eb640afd9c5a.pdf",
-    "static/media/cv-en.pdf": "/My_Portfolio/static/media/cv-en.397571b55efb0df54151.pdf",
+    "static/media/cv-en1.pdf": "/My_Portfolio/static/media/cv-en1.90df52702017c19c191e.pdf",
     "static/media/footer-image.png": "/My_Portfolio/static/media/footer-image.383488dcafb49afdf3d1.png",
     "static/media/react.png": "/My_Portfolio/static/media/react.7f7a8c3731f44add2834.png",
     "index.html": "/My_Portfolio/index.html",
     "main.73c2332e.css.map": "/My_Portfolio/static/css/main.73c2332e.css.map",
-    "main.0873c64c.js.map": "/My_Portfolio/static/js/main.0873c64c.js.map"
+    "main.a257a870.js.map": "/My_Portfolio/static/js/main.a257a870.js.map"
   },
   "entrypoints": [
     "static/css/main.73c2332e.css",
-    "static/js/main.0873c64c.js"
+    "static/js/main.a257a870.js"
   ]
 }
