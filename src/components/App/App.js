@@ -6,7 +6,6 @@ import Navbar from "../Navbar/Navbar";
 import Services from "../Skills/Skills";
 import Portfolio from "../Portfolio/Portfolio";
 import './App.css'
-// import Testimonial from "../Testimonials/Testimonial";
 import Footer from "../Footer/Footer";
 
 function App() {
@@ -26,8 +25,6 @@ function App() {
             <Navbar />
             <Intro />
             <Services />
-            {/* <Testimonial /> */}
-            {/* <Experience /> */}
             <Portfolio />
             <Footer />
 

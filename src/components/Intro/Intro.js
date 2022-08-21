@@ -2,8 +2,8 @@ import React, { useContext } from "react";
 import "./Intro.css";
 import background from "../../img/background.png";
 import { themeContext } from "../../Context";
-import cvAr from './files/cv-ar.pdf';
-import cvEn from './files/cv-en.pdf';
+// import cvAr from './files/cv-ar.pdf';
+import cvEn from './files/cv-en1.pdf';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faDownload } from '@fortawesome/free-solid-svg-icons'
 
@@ -33,11 +33,9 @@ const Intro = () => {
                     </span>
                 </div>
                 <div className="download-cv">
-                    <a href={cvAr}>
-                        <FontAwesomeIcon icon={faDownload} size="2x" /> Arabic CV
-                    </a>
+
                     <a href={cvEn} >
-                        <FontAwesomeIcon icon={faDownload} size="2x" />  English CV
+                        <FontAwesomeIcon icon={faDownload} size="2x" />   CV
                     </a>
                 </div>
             </div>
